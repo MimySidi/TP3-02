@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">recipes</string>
+    <string name="recipe1">Iconic Plate: Bistecca alla Fiorentina</string>
+    <string name="des1">Bistecca alla Fiorentina is the symbol of Florence’s gastronomic traditions.
+        It is a dish that represents the identity of Tuscany, of Profumo del Chianti and of Dario Cechinni’s
+        butcher shop.This incredibly unique dish is composed of a 7.5cm thick T-bone steak, that contains no
+        added salt, oil or marinades, prior to grilling. Diners can season their serving of Bistecca alla
+        Fiorentina with Profumo del Chianti, Dario’s signature herb salt blend and the finest extra-virgin
+        olive oil on hand.</string>
+    <string name="ing1">1 porterhouse, cut 3-4 inches thick \n
+1 Tbsp olive oil, more for drizzling\n
+coarse sea salt\n
+chopped fresh herbs such as rosemary or sage</string>
+    <string name="pro1"> 1.Heat a charcoal grill or set a gas grill to high. Brush steak with olive oil and herbs if using.\n
+
+        2.Grill on hottest part of grill, for 5 mins. Flip the steak.
+        Grill on the second side for 5 minutes. Flip the steak to grill edges 3-4 mins each.\n
+        3.When the meat is done remove it from grill and let it rest for 5 minutes for the juices to settle.\n
+        4.After resting, drizzle with olive oil and sea salt before serving.</string>
+
+    <string name="recipe2">Strawberry custard creams</string>
+    <string name="des2">Bake a strawberry version of classic custard creams.
+        Crisp vanilla biscuits are filled with jam and a delicious strawberry and custard buttercream.</string>
+    <string name="ing2">CALORIES 266KCALS \n
+FAT 13.1G (8.2G SATURATED)\n
+PROTEIN 1.6G\n
+CARBOHYDRATES 35.2G (18.3G SUGARS)\n
+FIBRE 0.6G\n
+SALT 0.1G\n</string>
+<string name="pro2">1.Hull the strawberries and purée.\n
+        2.Put the ★ ingredients in a small pan, and mix it up well before starting to cook.
+    If you want a really creamy, smooth texture, I recommend straining the mixture through a sieve at this stage.\n
+        3.Cook over low heat while mixing constantly with a whisk. When it starts to thicken,
+    the hardening process will progress very quickly, so keep mixing!
+</string>
+    <string name="recipe3">Almond blancmange with blackcurrant sauce</string>
+    <string name="des3">Creamy almond blancmange with a tart blackcurrant sauce is a classic English dessert that
+        will certainly bring feelings of nostalgia. An excellent way to use up a glut of homegrown fresh
+        blackcurrants.</string>
+    <string name="ing3">CALORIES 531KCALS \n
+FAT 37G (11.7G SATURATED) \n PROTEIN 9.8G \n
+CARBOHYDRATES 40.4G (39.4G SUGARS) \n
+FIBRE 1.8G \n
+SALT 0.1G \n</string>
+    <string name="pro3">1.Lightly oil 6 x 100-120ml (or 1 x 600-700ml) jelly moulds and set aside.
+        Put the almonds into a liquidiser with 4 tbsp cold water and the single cream,
+        then blend to produce a thick, gruel-like mixture.\n
+        2.Line a large sieve with a single piece of damp muslin. Spoon in a quarter of the mixture, gather up the edges and gradually squeeze out as much of the almond ‘milk’ as you can into a bowl.
+        Discard the leftover nut paste and repeat with the remaining mixture. You should be left with 300ml almond milk.
+        3.Soak the gelatine leaves in a small bowl of cold water for 5 minutes. Put 4 tbsp water into a small pan with the 125g
+        caster sugar and a pinch of salt, then heat gently until the sugar has dissolved and the liquid is clear.
+        Lift the soaked gelatine leaves out of the bowl, squeeze out the excess water, then stir the leaves into
+        the sugar syrup until they have dissolved. Stir this mixture into the almond milk and leave to cool.
+    </string>
+    <string name="recipe4">Tex-Mex inspired cheeseburger</string>
+    <string name="des4">Give homemade burgers a Tex-Mex twist in this easy recipe. Serve spicy beef patties
+        (made using our ultimate beef burger recipe) with a zesty slaw, jalapeños and a rich cheese sauce.</string>
+    <string name="ing4">½ portion delicious. ultimate beef burgers\n
+Veg oil for brushing\n
+2 tbsp fajita seasoning\n
+½ small white cabbage, finely shredded\n
+2 medium carrots, peeled and grated\n
+1 bunch coriander, roughly chopped (about 30g)\n
+1 small red onion, finely chopped\n
+3 tbsp mayonnaise\n
+Grated zest and juice 1 lime\n
+4 burger buns, toasted\n
+Tomato ketchup and pickled jalapeños to serve</string>
+    <string name="pro4">1.For the cheese sauce, whisk together 250ml evaporated milk and the corn flour in a saucepan. Put over a medium heat and bring it to the boil (whisking all the time), then simmer for 3 minutes. Remove from the heat and stir in the cheese, chilli powder, garlic and onion powders, and a pinch of salt. If the cheese isn’t fully melted, gently warm over a low heat until silky smooth. Adjust the thickness with a little more evaporated milk if needed. Keep warm until ready to serve.\n
+    2.Heat a ridged griddle pan, heavy-bottomed frying pan or prepare a barbecue for high direct heat. Brush the burgers with oil and sprinkle with the fajita seasoning. Cook for 6-8 minutes until cooked through and well browned.\n
+    3.While the burgers are cooking, toss together the cabbage, carrot, coriander, onion, mayo and lime zest and juice in a bowl. Season with salt and a little pepper.\n
+    </string>
+
+</resources>
